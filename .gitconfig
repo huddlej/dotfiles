@@ -1,0 +1,9 @@
+[user]
+	name = John Huddleston
+	email = huddlej@gmail.com
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+	unstage = reset HEAD --
