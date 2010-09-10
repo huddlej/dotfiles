@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+# name: test
+# contributor: John Huddleston
+# --
+class ${1:ClassName}TestCase(${2:test.TestCase}):
+    """
+    $3
+    """
+    def setUp(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+    $0
