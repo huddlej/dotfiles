@@ -6,4 +6,5 @@
 	ci = commit
 	br = branch
 	co = checkout
+    po = push origin master
 	unstage = reset HEAD --
